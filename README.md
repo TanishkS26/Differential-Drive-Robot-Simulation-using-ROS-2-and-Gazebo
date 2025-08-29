@@ -1,0 +1,2 @@
+# Differential-Drive-Robot-Simulation-using-ROS-2-and-Gazebo
+This project simulates a differential drive mobile robot in ROS 2 and Gazebo, integrating physics-based modeling with real-time control. Using Xacro/URDF for robot design, Gazebo plugins for actuation, and a ROS–Gazebo bridge for communication, it provides a complete pipeline to test robotics algorithms virtually before deploying to real hardware.
